@@ -18,3 +18,10 @@ Not Uygulaması, kullanıcıların günlük notlarını alabileceği, notlara et
 ### Not Silme: Kullanıcılar istedikleri notları silebilirler.
 ### Tag'lara Göre Filtreleme: Belirli bir tag'e tıklayarak, yalnızca o tag'e sahip notları görüntüleyebilirsiniz.
 ###  Markdown Desteği: Notlarınızda Markdown formatını kullanarak zengin metin içerikleri oluşturabilirsiniz.
+
+## Ekran Görüntüsü
+
+
+
+https://github.com/user-attachments/assets/35ff3324-1116-41f9-b936-37d5c029a20a
+
